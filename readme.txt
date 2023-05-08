@@ -1,0 +1,1 @@
+/Users/bailongma/Desktop/apache-maven-3.6.3/bin/mvn dependency:resolve -Dclassifier=sources
